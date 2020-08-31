@@ -1,6 +1,6 @@
 ## Tmap API를 활용한 공유 퍼스널 모빌리티 서비스   
 #### API 및 Sample Code 출처 : https://tmapapi.sktelecom.com/
-#### 루트 프로젝트 주소 : 
+#### 루트 프로젝트 주소 : https://github.com/leehyeongseck/TMap-flow-coding.git
 #### 프로젝트 출처 : 한국산업기술대학교 소프트웨어공학과, 컴퓨터 공학과   
 #### API 변경 일자 : 2020-07-20(월) [KakaoMap API -> Tmap API]   
 
